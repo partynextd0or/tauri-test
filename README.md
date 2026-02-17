@@ -18,13 +18,13 @@ npm install
 npm run dev
 ```
 
-1. Desktop:
+3. Desktop:
 
 ```bash
 npm run tauri:dev
 ```
 
-1. Production build:
+4. Production build:
 
 ```bash
 npm run tauri:build
