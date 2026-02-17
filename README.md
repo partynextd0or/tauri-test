@@ -14,19 +14,17 @@ npm install
 
 2. Web:
 
-**Next.js (Browser):**
 ```bash
 npm run dev
 ```
 
-3. Desktop:
+1. Desktop:
 
-**Tauri (Desktop App):**
 ```bash
 npm run tauri:dev
 ```
 
-4. Production build:
+1. Production build:
 
 ```bash
 npm run tauri:build
